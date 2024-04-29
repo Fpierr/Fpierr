@@ -1,8 +1,8 @@
 ### Hi there 👋
 #### I am a student studying Software Engineering with a focus on Full Stack specialization !
-#### I invite you to visit/discover my projects and my scripts in the Repositories section.
+#### I invite you to visit/discover my projects and my scripts in the [Repositories](https://www.github.com/Fpierr?tab=repositories) section.
 
-By [Fanuel PIERRE](https://www.github.com/Fpierr?tab=repositories)
+By [Fanuel PIERRE](https://www.github.com/Fpierr)
 
 <!--
 **Fpierr/Fpierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
