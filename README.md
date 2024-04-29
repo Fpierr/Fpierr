@@ -1,7 +1,8 @@
 ### Hi there 👋
 #### My scripts are in the Repositories section !
 
-[Fanuel PIERRE](www.github.com/Fpierr)
+[Fanuel PIERRE](https://www.github.com/Fpierr)
+
 <!--
 **Fpierr/Fpierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
