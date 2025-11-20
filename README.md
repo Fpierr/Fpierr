@@ -22,7 +22,7 @@ I cannot make the repositories public, but I can demonstrate the projects in a l
 - Website: https://www.extralink.dev
 
 
-By [Fanuel PIERRE](https://www.github.com/Fpierr)
+### By [Fanuel PIERRE](https://www.github.com/Fpierr)
 
 <!--
 **Fpierr/Fpierr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
