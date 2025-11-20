@@ -5,10 +5,11 @@
 ### These projects are private due to client confidentiality. 
 I cannot make the repositories public, but I can demonstrate the projects in a live interview via screenshare.
 
-### 1. ZikLive Platform (Private)
+### 1. ZikLive Platform (Private) :
 - Django, PostgreSQL, Next.js, Docker, OAuth authentication
 - Real-time media streaming
 - Centralize Event music and tickets for Konpa Haitian
+- Website: https://www.ziklive.com
 
 ### 2. Mobile App ZikLive (Private)
 - Django, PostgreSQL, Next.js, Docker, OAuth authentication
@@ -18,6 +19,7 @@ I cannot make the repositories public, but I can demonstrate the projects in a l
 ### 3. Mobile App ExtraLink (Private)
 - Flask changing to FastAPI, MySQL changing to PostgreSQL, Flutter
 - Authentication, Cloud Messaging, Realtime Database
+- Website: https://www.extralink.dev
 
 
 By [Fanuel PIERRE](https://www.github.com/Fpierr)
